@@ -23,7 +23,7 @@ I'm an javascript and python developer who likes exploring the world of ethical 
 
 ### 📊 Stats
 
-![Fix-My-Codey GitHub stats](https://github-readme-stats.vercel.app/api?usernameFix-My-Codey&show_icons=true&theme=gruvbox)
+!Fix-My-Codey GitHub stats](https://github-readme-stats.vercel.app/api?username=Fix-My-Codey&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?userFix-My-Codey&theme=gruvbox&border_radius=4.5) -->
 
