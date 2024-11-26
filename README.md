@@ -1,6 +1,9 @@
-# 🏄‍♂️ Fix My Code
+<p align="center">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="80"/>
+</p>
 
 **`Digital Craftsman (Developer/Problem Solver)`**
+
 
 I'm an javascript and python developer who likes exploring the world of ethical hacking
 
