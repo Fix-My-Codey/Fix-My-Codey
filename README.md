@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Problem Solver)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+I'm an javascript and python developer who likes exploring the world of ethical hacking
 
 <p align="left">
    <a href="https://github.com/ForrestKnight?tab=followers">
